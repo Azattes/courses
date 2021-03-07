@@ -1,0 +1,6 @@
+db.sqlite3
+venv
+.env
+courses/__pycache__
+courses_app/__pycache__
+courses_app/.env
